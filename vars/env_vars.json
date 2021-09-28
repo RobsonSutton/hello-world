@@ -1,0 +1,12 @@
+{
+    "env_vars": [
+        {
+            "key": "HELLO_WORLD",
+            "value": "Hello World!"
+        },
+        {
+            "key": "TEST_VAR",
+            "value": "XXXXXXXXXXX"
+        }
+    ]
+}
