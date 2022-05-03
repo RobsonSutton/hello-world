@@ -15,3 +15,16 @@ build/
 
 # don't push db to github
 **/site.db
+
+# Local .terraform directories
+**/.terraform/*
+**/terraform.d/*
+.terraform.d
+
+# .tfstate files
+*.tfstate
+*.tfstate.*
+**/terraform.plan
+
+# .tf lock
+.terraform.lock.hcl
